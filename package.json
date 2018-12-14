@@ -1,0 +1,22 @@
+{
+  "name": "madlibs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0rdcafe/madlibs.git"
+  },
+  "author": "Ismail Arafa <me@l0rdcafe.com> (http://www.l0rdcafe.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0rdcafe/madlibs/issues"
+  },
+  "homepage": "https://github.com/l0rdcafe/madlibs#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
